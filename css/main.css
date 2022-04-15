@@ -5,6 +5,12 @@
 body{
   padding: 0;
   margin: 0;
+  width:100%;
+  height: 100vh;
+  background-size: cover;
+  object-fit: cover;
+  background-image: url(https://cdn-files.kimovil.com/default/0006/15/thumb_514824_default_big.jpeg);
+  background-repeat: no-repeat;
 }
 
 .btn{
